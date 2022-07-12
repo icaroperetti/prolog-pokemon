@@ -1,4 +1,4 @@
-iniciar :- hipotese(Pokemon),
+jogar :- hipotese(Pokemon),
       write('Acredito que seja o: '),
       write(Pokemon),
       nl,
