@@ -75,21 +75,22 @@ geodude :-
   verificar(e_do_tipo_pedra),
   verificar(flutua).
 
-% Verificar algo 
+
 perguntar(Questao) :-
     write('O pokemon possui a seguinte caracteristica: '),
     write(Questao),
-    write(' (s ou n ) ? '),
+    nl,
+    write(' Responda (s. ou n. )'),
     read(Resposta),
     nl,
     ( (Resposta == sim ; Resposta == s)
       ->
-       assert(yes(Questao)) ;
+       assert(yes(Questao));
        assert(no(Questao)), fail).
-
 
 :- dynamic yes/1,no/1.
 
+% Verificar algo
 verificar(S) :-
    (yes(S)
     ->
