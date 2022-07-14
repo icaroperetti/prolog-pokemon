@@ -73,7 +73,7 @@ abra :-
 geodude :- 
   verificar(cor_tons_cinza),
   verificar(e_do_tipo_pedra),
-  verificar(flutua).
+  verificar(e_terrestre).
 
 
 perguntar(Questao) :-
