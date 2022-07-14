@@ -80,4 +80,4 @@ Geodude
 ![geodude](https://img.pokemondb.net/sprites/x-y/normal/geodude.png)
 - [x] Tons Cinza
 - [x] Tipo Pedra
-- [x] Flutua
+- [x] Terreste
