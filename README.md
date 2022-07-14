@@ -14,7 +14,7 @@ Para realizar a adivinhação, o jogador que estiver jogando deverá responder u
 - Cor do pokemon
 - Se ele voa,flutua ou é terrestre
 - O tipo do pokemon (Aquático,elétrico,psíquico etc)
-- Cada característica também pode ser consultada no site: <a src='https://www.pokemon.com/br/pokedex/' target='_blank'>Pokédex</a>
+- Cada característica também pode ser consultada no site: https://www.pokemon.com/br/pokedex/
 
 
 A seguir os pokemons contidos na base para que seja adivinhado:
