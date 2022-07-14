@@ -1,3 +1,5 @@
+% Aluno: Icaro Peretti
+
 jogar :- hipotese(Pokemon),
       write('Acredito que seja o: '),
       write(Pokemon),
