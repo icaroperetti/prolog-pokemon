@@ -7,7 +7,7 @@
 
 O presente trabalho proposto para o paradigma lógico da disciplina programação Lógica e Funcional tem por objetivo realizar a adivinhação de um determinado pokemon (no meu caso) utilizando o SWI-Prolog.
 
-Para realizar a adivinhação, o jogador que estiver jogando deverá responder uma série de perguntas, induzindo ao código a resposta de qual pokemon o jogador estava buscando e caso não esteja contida na base de dados irá retornarn que é um pokemón desconhecido.
+Para realizar a adivinhação, o jogador que estiver jogando deverá responder uma série de perguntas, induzindo ao código a resposta de qual pokemon o jogador estava buscando e caso não esteja contida na base de dados irá retornar que é um pokemón desconhecido.
 
 <Strong>Características escolhidas</Strong>
 
